@@ -21,7 +21,15 @@ This repository contains implementations of classic algorithms for graphs and st
 
 ## Other Implementations and Competitive Programming
 
-Some implementations in this repository are geared towards educational purposes or real-world applications, while others are tailored for competitive programming.
+Some implementations in this repository are geared towards educational purposes or real-world applications, while others are tailored for competitive programming. Additionally, code from users of [CSES](https://cses.fi/) (Code Submission Evaluation System) has been included.
+
+## Usage with NetBeans
+
+This project is structured to be compatible with NetBeans IDE. You can easily import the project into NetBeans and start using the algorithms.
+
+## Origin of Code
+
+A significant portion of the code in this repository originates from professors at Central University Marta Abreu of Las Villas.
 
 ## Key Features
 
@@ -43,7 +51,7 @@ Contributions are welcome. If you have suggestions or improvements, open an issu
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
+This project is released under The Unlicense, which means it is in the public domain and has no copyright. See the `LICENSE` file for more details.
 
 ## Contact
 
