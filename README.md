@@ -57,8 +57,9 @@ This project is released under The Unlicense, which means it is in the public do
 
 If you have any questions, feel free to reach out to me at [reneespinosa.dev@gmail.com](mailto:reneespinosa.dev@gmail.com).
 
-![GitHub tag (version)](https://img.shields.io/github/v/tag/reneespinosa/Graphs-and-Strings-Matching-Most-Classic-Algorithms-in-Java?label=version&style=flat-square)
-![GitHub tag (license)](https://img.shields.io/github/license/reneespinosa/Graphs-and-Strings-Matching-Most-Classic-Algorithms-in-Java?label=license&style=flat-square)
-![GitHub tag (issues)](https://img.shields.io/github/issues/reneespinosa/Graphs-and-Strings-Matching-Most-Classic-Algorithms-in-Java?label=issues&style=flat-square)
-![GitHub tag (stars)](https://img.shields.io/github/stars/reneespinosa/Graphs-and-Strings-Matching-Most-Classic-Algorithms-in-Java?label=stars&style=flat-square)
+[![GitHub tag (version)](https://img.shields.io/github/v/tag/reneespinosa/Graphs-and-Strings-Matching-Most-Classic-Algorithms-in-Java?label=version&style=flat-square)](https://github.com/reneespinosa/Graphs-and-Strings-Matching-Most-Classic-Algorithms-in-Java/releases)
+[![GitHub tag (license)](https://img.shields.io/github/license/reneespinosa/Graphs-and-Strings-Matching-Most-Classic-Algorithms-in-Java?label=license&style=flat-square)](https://github.com/reneespinosa/Graphs-and-Strings-Matching-Most-Classic-Algorithms-in-Java/blob/master/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/reneespinosa/Graphs-and-Strings-Matching-Most-Classic-Algorithms-in-Java?label=issues&style=flat-square)](https://github.com/reneespinosa/Graphs-and-Strings-Matching-Most-Classic-Algorithms-in-Java/issues)
+[![GitHub stars](https://img.shields.io/github/stars/reneespinosa/Graphs-and-Strings-Matching-Most-Classic-Algorithms-in-Java?label=stars&style=flat-square)](https://github.com/reneespinosa/Graphs-and-Strings-Matching-Most-Classic-Algorithms-in-Java/stargazers)
+
 
