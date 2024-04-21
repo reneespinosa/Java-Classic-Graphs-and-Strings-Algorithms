@@ -47,7 +47,7 @@ To use the algorithms in this repository:
 
 ## Contributions
 
-Contributions are welcome. If you have suggestions or improvements, open an issue or submit a pull request.
+To contribute to this project please check out the [contribution guidelines](https://github.com/YurisCodingClub/accessibility-mentor/blob/main/CONTRIBUTING.md).
 
 ## License
 
@@ -55,4 +55,5 @@ This project is released under The Unlicense, which means it is in the public do
 
 ## Contact
 
-If you have any questions, feel free to open an issue in this repository.
+If you have any questions, feel free to reach out to me at [reneespinosa.dev@gmail.com](mailto:reneespinosa.dev@gmail.com).
+
