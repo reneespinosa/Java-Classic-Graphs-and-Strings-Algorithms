@@ -1,4 +1,4 @@
-# Classic Graph and String Matching Algorithms in Java
+# Classic Graphs and Strings Algorithms in Java
 
 This repository contains implementations of classic algorithms for graphs and string matching in Java. The algorithms cover a wide range of applications, from graph processing to efficient string matching.
 
@@ -7,29 +7,26 @@ This repository contains implementations of classic algorithms for graphs and st
 - **Graph Algorithms**:
   - **Depth-First Search (DFS)**: An algorithm for traversing or searching in a graph or tree.
   - **Breadth-First Search (BFS)**: An algorithm for traversing or searching in a graph or tree iteratively.
-  - **Shortest Paths in Unweighted Graphs**: Algorithms like BFS to find the shortest paths between nodes in unweighted graphs.
-  - **Shortest Paths in Weighted Graphs with Positive Weights**: Algorithms like Dijkstra to find the shortest paths between nodes in weighted graphs with positive weights.
-  - **Shortest Paths in Graphs with Negative Weights**: Algorithms like Bellman-Ford to find the shortest paths between nodes in graphs with negative weights.
+  - **BFS Shortest Path**: An algorithm to find the shortest paths between nodes in unweighted graphs using BFS.
+  - **Dijkstra's Algorithm**:  An algorithm to find the shortest paths between nodes in weighted graphs with positive weights. It includes both general versions and optimized versions for dense graphs.
+  - **Bellman-Ford Algorithm**: An algorithm to find the shortest paths between nodes in graphs with negative weights.
+  - **Floyd-Warshall Algorithm**: An algorithm to find the shortest paths in a weighted graph with positive or negative edge weights (but with no negative cycles).
   - **Topological Sorting**: An algorithm to sort the nodes of a directed acyclic graph.
-  - **Shortest Paths in DAGs (Directed Acyclic Graphs)**: Algorithms to find the shortest paths in directed acyclic graphs.
+  - **Shortest Paths in DAGs (Directed Acyclic Graphs)**: Algorithm to find the shortest paths in directed acyclic graphs.
 
 - **String Matching Algorithms**:
-  - **Brute Force**: A simple but inefficient approach to finding all occurrences of a pattern in a text.
-  - **Boyer-Moore**: An efficient algorithm for pattern searching in text.
   - **Knuth-Morris-Pratt (KMP)**: A linear-time algorithm for substring searching in text.
-  - **String Matching Automaton**: An efficient method that uses finite automata to search for patterns in text.
+  - **Hashing**: An approach to string matching that involves converting strings into numerical representations using hash functions, enabling fast pattern matching.
+  - **Trie (Prefix Tree)**: A tree-like data structure used to store a dynamic set of strings, making it efficient for searching and retrieving strings with a common prefix.
+  
 
 ## Other Implementations and Competitive Programming
 
 Some implementations in this repository are geared towards educational purposes or real-world applications, while others are tailored for competitive programming. Additionally, code from users of [CSES](https://cses.fi/) (Code Submission Evaluation System) has been included.
 
-## Usage with NetBeans
-
-This project is structured to be compatible with NetBeans IDE. You can easily import the project into NetBeans and start using the algorithms.
-
 ## Origin of Code
 
-A significant portion of the code in this repository originates from professors at Central University Marta Abreu of Las Villas.
+A significant portion of the code in this repository is adapted from the repository [Saborit10/conferencias_2cc](https://github.com/Saborit10/conferencias_2cc).
 
 ## Key Features
 
