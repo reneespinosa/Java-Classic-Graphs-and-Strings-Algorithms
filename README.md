@@ -1,4 +1,4 @@
-# Classic Graphs and Strings Algorithms in Java
+# Java Classic Graphs and Strings Algorithms 
 
 This repository contains implementations of classic algorithms for graphs and string matching in Java. The algorithms cover a wide range of applications, from graph processing to efficient string matching.
 
